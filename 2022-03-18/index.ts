@@ -3,7 +3,7 @@
  * 
  * example) 
  * input : "ABC"
- * output : "BCA"
+ * output : "CBA"
  *
  */
 
